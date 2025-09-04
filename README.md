@@ -1,4 +1,4 @@
-- Hi, I’m Emily Wei
+- Hi, I’m Emily 🌝
 - 👀 I’m interested in coding for a greater purpose!
 
 <!---
