@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Emily
-- 👀 I’m interested in coding for a greater purpose
-- 🌱 I’m currently learning Java...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Emily Wei
+- 👀 I’m interested in coding for a greater purpose!
 
 <!---
 rosywisteria/rosywisteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
