@@ -1,4 +1,4 @@
-I’m Emily (˶ᵔ ᵕ ᵔ˶)
+I’m Emily ૮₍ ´˶• ᴥ •˶` ₎ა
 
 <!---
 rosywisteria/rosywisteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
